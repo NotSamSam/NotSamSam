@@ -1,37 +1,45 @@
 # 💫 Welcome to my profile 👋
 
-**Game Development Enthusiast | Engineering Student at EPITA**
+**Software Engineering Student at EPITA | Game Development Enthusiast**
 
-I am currently studying engineering at EPITA, refining my technical skills in software and systems development. My developer journey started earlier, by creating games on Roblox, which sparked my passion for programming.
+[![Looking for Apprenticeship](https://img.shields.io/badge/Status-Looking_for_an_Apprenticeship-22c55e?style=for-the-badge&logo=rocket)](mailto:lucas.lefranc@epita.fr)
 
-### 🚀 Projects
+I am currently a second-year engineering student at EPITA, refining my technical skills in software architecture and systems development. My developer journey started by creating games on Roblox, which sparked a deep passion for programming and scalable systems.
 
-**Rust File Comparison Tool**
-I am developing a tool in Rust with two colleagues to compare file similarity. The project ultimately aims to analyze both text spelling and images.
+### 🚀 Featured Projects
 
-**OCR Solution**
-This is a tool designed to solve Word Search puzzles in C using an AI-driven approach for character recognition.
+**⚡ FluxLogic — Universal Data Connector**  
+A SaaS Proof of Concept designed to automate and secure data transfers between platforms.
+*   **Reliability:** Built a resilient API dispatcher with automatic retries (Exponential Backoff).
+*   **Security:** Implemented secure HMAC-SHA256 Webhook integrations for data integrity.
+*   **Data Quality:** Developed a Python ETL pipeline using Pydantic for strict schema validation.
 
-**Chicken Pie**
-We developed a multiplayer Tower Defense game on Unity using C# which features specific AI mechanics.
+[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_FluxLogic-2563eb?style=for-the-badge)](https://notsamsam.github.io/FluxLogic/)
 
-**Roblox Projects**
-I have created several game projects and scripts on the Roblox platform using Luau to focus on gameplay systems.
+**🦀 Rust File Comparison Tool**  
+Collaborative high-performance tool developed in Rust to analyze file similarity. It features advanced algorithms to compare both text patterns and image data with optimized execution time.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/lucas-lefranc-900a5a308) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucas.lefranc@epita.fr) 
+**🧠 OCR Solution (C)**  
+A specialized tool designed to solve Word Search puzzles. Built in C, it handles the full pipeline: image pre-processing, AI-driven character recognition, and optimized matrix traversal.
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Octave](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683) ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
-# 📊 GitHub Stats:
+**🎮 Chicken Pie (C# / Unity)**  
+A multiplayer Tower Defense game. Focused on implementing custom AI pathfinding logic, wave management systems, and real-time combat mechanics.
+
+**🧱 Roblox System Engineering (Luau)**  
+Advanced game systems and plugins focusing on scalable backend architectures. Includes custom combat frameworks and robust Server/Client network validation to prevent exploits.
+
+## 🌐 Socials & Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lefranc-900a5a308) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucas.lefranc@epita.fr) 
+
+---
+
+# 💻 Tech Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+
+# 📊 GitHub Stats
 ![](https://github-readme-stats.shion.dev/api?username=NotSamSam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=NotSamSam&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=NotSamSam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
 [![](https://komarev.com/ghpvc/?username=NotSamSam&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
