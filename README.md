@@ -1,45 +1,67 @@
-# Welcome to my profile 👋
+<h1 align="center">Lucas Lefranc</h1>
 
-**Software Engineering Student at EPITA | Game Development Enthusiast**
+<p align="center">
+  Engineering student at <b>EPITA</b> · Software development, full-stack &amp; cybersecurity
+</p>
 
-[![Looking for Apprenticeship](https://img.shields.io/badge/Status-Looking_for_an_Apprenticeship-22c55e?style=for-the-badge&logo=rocket)](mailto:lucas.lefranc@epita.fr)
-
-I am currently a second-year engineering student at EPITA, refining my technical skills in software architecture and systems development. My developer journey started by creating games on Roblox, which sparked a deep passion for programming and scalable systems.
-
-### 🚀 Featured Projects
-
-**⚡ FluxLogic — Universal Data Connector**  
-A SaaS Proof of Concept designed to automate and secure data transfers between platforms.
-*   **Reliability:** Built a resilient API dispatcher with automatic retries (Exponential Backoff).
-*   **Security:** Implemented secure HMAC-SHA256 Webhook integrations for data integrity.
-*   **Data Quality:** Developed a Python ETL pipeline using Pydantic for strict schema validation.
-
-[![Live Demo](https://img.shields.io/badge/🌐_Live_Demo-Try_FluxLogic-2563eb?style=for-the-badge)](https://notsamsam.github.io/FluxLogic/)
-
-** Rust File Comparison Tool**  
-Collaborative high-performance tool developed in Rust to analyze file similarity. It features advanced algorithms to compare both text patterns and image data with optimized execution time.
-
-** OCR Solution (C)**  
-A specialized tool designed to solve Word Search puzzles. Built in C, it handles the full pipeline: image pre-processing, AI-driven character recognition, and optimized matrix traversal.
-
-** Chicken Pie (C# / Unity)**  
-A multiplayer Tower Defense game. Focused on implementing custom AI pathfinding logic, wave management systems, and real-time combat mechanics.
-
-** Roblox System Engineering (Luau)**  
-Advanced game systems and plugins focusing on scalable backend architectures. Includes custom combat frameworks and robust Server/Client network validation to prevent exploits.
-
-## Socials & Contact
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-lefranc-900a5a308) 
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lucas.lefranc@epita.fr) 
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-lefranc-900a5a308"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:lucas.lefranc@epita.fr"><img src="https://img.shields.io/badge/Email-lucas.lefranc@epita.fr-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <img src="https://img.shields.io/badge/Open_to-Apprenticeship-22C55E?style=flat-square" alt="Open to apprenticeship">
+</p>
 
 ---
 
-# Tech Stack
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![OCaml](https://img.shields.io/badge/OCaml-%23E98407.svg?style=for-the-badge&logo=ocaml&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+## About
 
-# GitHub Stats
-![](https://github-readme-stats.shion.dev/api?username=NotSamSam&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=NotSamSam&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&v=1)
+Third-year student at EPITA in Paris, now in the engineering cycle (2026 – 2029) after two years of integrated preparatory classes.
+I work mostly on systems programming (C, C++, Rust), web development (TypeScript, React, SQL) and application security.
+I started programming by building games on Roblox, which is where my interest in network architecture and server-side validation comes from.
 
----
-[![](https://komarev.com/ghpvc/?username=NotSamSam&icon=0&color=0)](https://visitcount.itsvg.in)
+I am **looking for an apprenticeship** in software engineering (2 weeks at school / 2 weeks in company).
+
+## Experience
+
+**Web Developer — Club de Rugby Montreuillois** · 2026
+Contributing to a TypeScript monorepo (Turborepo) that holds the club's public website and its internal management app.
+- Frontend: public site in Astro, internal tool in React / Vite with shadcn/ui
+- Backend: REST API with Hono, Drizzle ORM and PostgreSQL
+
+## Projects
+
+| Project | Stack | Summary |
+| --- | --- | --- |
+| **Word Search OCR** | C | Six-month team project: image pre-processing, neural-network character recognition and grid solving, organized as separate modules. |
+| **Chicken Pie** | C# · Unity | Multiplayer tower defense built over eight months: gameplay, camera, player interactions, pathfinding and wave management. |
+| **File Similarity Analyzer** | Rust | Team project comparing text and image files for similarity, with a focus on algorithmic performance. |
+| **Web security lab** | DVWA · Burp Suite | Exploitation of SQL injection, XSS, file inclusion and command injection, plus source-code review. |
+| **Roblox systems** | Luau | Combat frameworks and plugins with server-authoritative validation against client exploits. |
+| **[FluxLogic](https://notsamsam.github.io/FluxLogic/)** | Python · Pydantic | Learning project built with AI assistance to explore data pipelines: ETL with schema validation, retries with exponential backoff, HMAC-signed webhooks. |
+
+## Tech stack
+
+**Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,rust,py,cs,ts,ocaml,lua&perline=10" alt="Languages">
+</p>
+
+**Web**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,astro,vite,nodejs,postgres&perline=10" alt="Web">
+</p>
+
+**Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=linux,bash,git,githubactions,unity,dotnet&perline=10" alt="Tools">
+</p>
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/NotSamSam/NotSamSam/output/github-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/NotSamSam/NotSamSam/output/github-snake.svg">
+  <img alt="Contribution graph animation" src="https://raw.githubusercontent.com/NotSamSam/NotSamSam/output/github-snake.svg">
+</picture>
