@@ -35,7 +35,7 @@ Contributing to a TypeScript monorepo (Turborepo) that holds the club's public w
 | **[Chicken Pie](https://github.com/NotSamSam/Chicken-Pie)** | C# · Unity | Multiplayer tower defense built over eight months: gameplay, camera, player interactions, pathfinding and wave management. |
 | **[KOMP](https://github.com/NotSamSam/Projet-Rust)** | Rust | Team project comparing text and image files for similarity, with a focus on algorithmic performance. |
 | **Web security lab** | DVWA · Burp Suite | Exploitation of SQL injection, XSS, file inclusion and command injection, plus source-code review. |
-| **[Pet-A-Bricke](https://github.com/NotSamSam/Pet-A-Bricke-Open-Source-)** | Luau | Server side of a Roblox game: player data, gamepasses and pet system. |
+| **[Pet-A-Brick](https://github.com/NotSamSam/Pet-A-Bricke-Open-Source-)** | Luau | Server side of a Roblox game: player data, gamepasses and pet system. |
 | **[FluxLogic](https://notsamsam.github.io/FluxLogic/)** | Python · Pydantic | Learning project built with AI assistance to explore data pipelines: ETL with schema validation, retries with exponential backoff, HMAC-signed webhooks. |
 
 ## Tech stack
